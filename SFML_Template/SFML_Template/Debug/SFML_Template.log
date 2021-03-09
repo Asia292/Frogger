@@ -1,0 +1,8 @@
+﻿  Frog.cpp
+h:\yr1\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(16): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\yr1\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(19): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+h:\yr1\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\yr1\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\yr1\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\yr1\rawr\final\sfml_template\sfml_template\sfml_template\sfml_template\src\frog.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML_Template.vcxproj -> H:\Yr1\rawr\Final\SFML_Template\SFML_Template\SFML_Template\Debug\SFML_Template.exe
